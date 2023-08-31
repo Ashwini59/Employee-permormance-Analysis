@@ -190,7 +190,7 @@ Sklearn
 Pickle
 
 
-# Goal 1: Department Wise Performances
+## Goal 1: Department Wise Performances
 
 **PLOT USED**
 
@@ -208,7 +208,7 @@ Sales: The Performace rating level 3 is more in the sales department. The male p
 
 * Finance: The finance department performance is exponentially decreasing when age increases. The male employees are doing good. The experience factor is inversely relating to the performance level.
 
-# Goal 2: Top 3 Important Factors effecting employee performance
+## Goal 2: Top 3 Important Factors effecting employee performance
 The top three important features affecting the performance rating are ordered with their importance level as follows,
 
 1. Employment Environment Satisfaction
@@ -221,7 +221,7 @@ The top three important features affecting the performance rating are ordered wi
 
 * Employee work life balance: In EmpWorkLifeBalance, level 3 is showing high Performance Rating of employees
 
-# Goal 3: A Trained model which can predict the employee performance
+## Goal 3: A Trained model which can predict the employee performance
 **The trained model is created using the machine learning algorithm as follows with the accuracy score**
 
 1. Support Vector Classifier: 98.28% accuracy
@@ -229,7 +229,7 @@ The top three important features affecting the performance rating are ordered wi
 3. Artifical Neural Network [Multilayer percepton]: 95.80%
 
 
-# Goal 4: Recommendations to improve the employee performance
+## Goal 4: Recommendations to improve the employee performance
 The overall employee performance can be achieved by employee environment satisfaction. The company needs to focus more on the employee environment satisfaction.
 The salary hike will give the boost to the employees to perform well.
 Promote the employee ervery 6th month
