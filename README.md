@@ -13,7 +13,11 @@ Employee Performance
 ## Department wise performances
 ## Top 3 Important Factors effecting employee performance
 
-A model predicts employee performance using input factors for hiring. It suggests ways to enhance performance based on analysis. Dataset: 1200 rows, 28 columns. Features categorized into 19 quantitative (11 numeric, 8 ordinal) and 8 qualitative. Correlation used to identify key aspects, especially with Performance Rating. Analysis included Univariate, Bivariate, Multivariate, and departmental breakdown. Classification problem with ordinal Target variable. Models: Support Vector, Random Forest, Artificial Neural Network (MLP). Best accuracy: MLP at 95.80%. Identified important features via ML's feature importance. Preprocessing used Manual & Frequency encoding for categorical-to-numerical conversion. Project accomplished goals through ML and visualization techniques.
+A model predicts employee performance using input factors for hiring. It suggests ways to enhance performance based on analysis. 
+Dataset: 1200 rows, 28 columns. 
+Features categorized into 19 quantitative (11 numeric, 8 ordinal) and 8 qualitative. 
+Correlation used to identify key aspects, especially with Performance Rating. Analysis included Univariate, Bivariate, Multivariate, and departmental breakdown. Classification problem with ordinal Target variable. Models: Support Vector, Random Forest, Artificial Neural Network (MLP). 
+Best accuracy: MLP at 95.80%. Identified important features via ML's feature importance. Preprocessing used Manual & Frequency encoding for categorical-to-numerical conversion. Project accomplished goals through ML and visualization techniques.
 ## 1. Requirement
 The data was given from the IABAC for this project where the collected source is IABAC™. The data is based on INX Future Inc, (referred as INX ). It is one of the leading data analytics and automation solutions provider with over 15 years of global business presence. INX is consistently rated as top 20 best employers past 5 years. The data is not from the real organization. The whole project was done in Jupiter notebook with python platform.
 
