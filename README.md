@@ -23,7 +23,7 @@ Correlation used to identify key aspects, especially with Performance Rating. An
 Best accuracy: MLP at 95.80%. Identified important features via ML's feature importance. Preprocessing used Manual & Frequency encoding for categorical-to-numerical conversion. Project accomplished goals through ML and visualization techniques.
 
 ## 1. Requirement
-The data was given from the IABAC for this project where the collected source is IABAC™. The data is based on INX Future Inc, (referred as INX ). It is one of the leading data analytics and automation solutions provider with over 15 years of global business presence. INX is consistently rated as top 20 best employers past 5 years. The data is not from the real organization. The whole project was done in Jupiter notebook with python platform.
+The whole project was done in Jupiter notebook with python platform.
 
 ## 2. Analysis
 Data were analyzed by describing the features present in the data. the features play the bigger part in the analysis. The features tell the relation between the dependent and independent variables. Pandas also help to describe the datasets answering following questions early in our project. The data present in the dataset are divided into numerical and categorical data.
