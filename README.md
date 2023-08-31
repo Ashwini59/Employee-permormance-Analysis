@@ -3,8 +3,8 @@
 
 
 ## PROJECT SUMMARY:
-### BUISNESSCASE & GOAL OF PROJECT: BASED ON GIVEN FEATURE OF DATASET WE NEED TO PREDICT THE PERFOMANCE RATING OF EMPLOYEE
-INX Future Inc Employee Performance - Project
+### BASED ON GIVEN FEATURE OF DATASET WE NEED TO PREDICT THE PERFOMANCE RATING OF EMPLOYEE
+Employee Performance
 
 **The Data science project which is given here is an analysis of employee performance**
 
